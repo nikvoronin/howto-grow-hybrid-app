@@ -1,0 +1,1 @@
+# techtalks-19-vladimir
