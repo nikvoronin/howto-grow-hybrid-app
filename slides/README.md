@@ -1,4 +1,8 @@
-| | | |
+1 &rarr; 2 &rarr; 3\
+4 &rarr; 5 &rarr; 6\
+...
+
+|&rarr;|&rarr;|&rarr;|
 |:---:|:---:|:---:|
 |<img width=300 src="https://github.com/nikvoronin/howto-grow-hybrid-app/blob/main/slides/00.png">|<img width=300 src="https://github.com/nikvoronin/howto-grow-hybrid-app/blob/main/slides/01.png">|<img width=300 src="https://github.com/nikvoronin/howto-grow-hybrid-app/blob/main/slides/02.png">|
 |<img width=300 src="https://github.com/nikvoronin/howto-grow-hybrid-app/blob/main/slides/03.png">|<img width=300 src="https://github.com/nikvoronin/howto-grow-hybrid-app/blob/main/slides/04.png">|<img width=300 src="https://github.com/nikvoronin/howto-grow-hybrid-app/blob/main/slides/05.png">|
